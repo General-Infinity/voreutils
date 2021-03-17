@@ -4,3 +4,7 @@ a bad recreation of gnu/coreutils
 why not?
 # recreated
 * yes
+* true
+* false
+* touch
+* whoami
