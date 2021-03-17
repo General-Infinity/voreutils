@@ -7,5 +7,6 @@ all:
 	gcc src/false.c -O2 -o build/false
 	gcc src/touch.c -O2 -o build/touch
 	gcc src/whoami.c -O2 -o build/whoami
+	gcc src/cp.c -O2 -o build/cp
 clean:
 	rm -rf build
