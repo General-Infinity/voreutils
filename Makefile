@@ -9,5 +9,6 @@ all:
 	gcc src/whoami.c -O2 -o build/whoami
 	gcc src/cp.c -O2 -o build/cp
 	gcc src/cat.c -O2 -o build/cat
+	gcc src/rm.c -O2 -o build/rm
 clean:
 	rm -rf build
