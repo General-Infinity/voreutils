@@ -6,5 +6,11 @@ why not?
 * yes
 * true
 * false
-* touch
 * whoami
+* touch
+* rm
+* cp
+* mv
+* cat
+# release
+there is a windows release now, go get it fuckers
