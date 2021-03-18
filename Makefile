@@ -10,5 +10,6 @@ all:
 	${CC} src/cp.c -O2 -o build/cp
 	${CC} src/cat.c -O2 -o build/cat
 	${CC} src/rm.c -O2 -o build/rm
+	${CC} src/mv.c -O2 -o build/mv
 clean:
 	rm -rf build
